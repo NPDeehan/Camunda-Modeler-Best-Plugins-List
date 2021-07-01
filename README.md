@@ -29,3 +29,12 @@ There are lots of different properties that you can add to BPMN symbols in Camun
 https://github.com/umb/camunda-modeler-property-info-plugin
 
 ![properties](./img/Properties.gif)
+
+
+## Camunda Modeler AutoSave
+I usually develop with Intelij which is great because it autosaves as i go along, but I use the modeler to edit my BPMN Diagrams so way too often i've make a change that i fulled expect to see deployed, just to find out that i forgot to hit save. Now we have AutoSave! A fantastic feature that has saved me a lot of time. 
+
+https://github.com/pinussilvestrus/camunda-modeler-autosave-plugin
+
+
+![](./img/screencast.gif)
